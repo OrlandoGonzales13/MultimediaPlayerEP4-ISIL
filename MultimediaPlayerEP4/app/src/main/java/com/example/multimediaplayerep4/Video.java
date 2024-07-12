@@ -19,7 +19,7 @@ public class Video extends AppCompatActivity {
     VideoView videoView;
     Button btnIniciar;
     ListView videoListView;
-    String[] videoList = {"jujutsukaisenvideo", "ataquedetitanesvideo", "pokemonvideo", "pokemomjohtovideo", "digimonvideo"};
+    String[] videoList = {"jujutsukaisenvideo", "ataquedetitanesvideo", "pokemonvideo", "pokemomjohtovideo", "digimonvideo", "narutovideo", "narutoshipudenvideo", "avatarvideo", "phineasyferbvideo", "bobesponjavideo"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
